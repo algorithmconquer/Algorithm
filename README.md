@@ -22,3 +22,4 @@ http://logos.name/archives/236；
 4.10 http://www.cnblogs.com/LeftNotEasy/tag/machine%20learning/; --Wangda Tan
 4.11 http://www.cnblogs.com/tornadomeet/category/361811.html; --tornadomeet 
 4.12 http://studyai.site/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/page/2/; --studyAI
+4.13 http://freemind.pluskid.org/archive/; --Free Mind 
